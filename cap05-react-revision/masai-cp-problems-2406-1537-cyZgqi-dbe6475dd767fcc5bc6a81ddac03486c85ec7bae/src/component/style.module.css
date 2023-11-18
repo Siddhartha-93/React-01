@@ -1,0 +1,11 @@
+#coffeeCard {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+#coffeeCard img {
+    width: 100%;
+    max-width: 100%;
+    
+
+}
