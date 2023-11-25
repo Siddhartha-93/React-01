@@ -1,0 +1,8 @@
+#btn {
+    display: flex;
+    justify-content: space-evenly;
+    width: min-content;
+    gap: 10px;
+    margin: auto;
+  }
+
